@@ -1,0 +1,39 @@
+// Colors
+$grey-dk-200: #2f2d3c;
+$grey-dk-250: #252129;
+$grey-dk-300: #121217;
+$grey-dk-100: lighten($grey-dk-200, 15%);
+$grey-dk-000: lighten($grey-dk-100, 15%);
+
+$grey-lt-000: #fafafa;
+$grey-lt-100: #eeeef2;
+$grey-lt-200: #e2e2e9;
+$grey-lt-300: darken($grey-lt-300, 15%);
+
+$purple-100: #6758f0;
+$purple-200: #5837ed;
+$purple-300: #331dc3;
+$purple-000: lighten($purple-100, 15%);
+
+$orange-100: #ff6b00;
+$orange-200: #e76203;
+$orange-300: #cc4a09;
+$orange-000: lighten($orange-100, 20%);
+
+$blue-100: #1da4f5;
+$blue-200: #0480cd;
+$blue-300: #26496d;
+$blue-000: lighten($blue-100, 20%);
+
+$yellow-100: #ffbc0f;
+$yellow-200: #ffa600;
+$yellow-300: #ae621a;
+$yellow-000: lighten($yellow-100, 20%);
+
+$green-100: #7bc142;
+$green-200: #67ad2e;
+$green-300: #497c1f;
+$green-000: lighten($green-100, 20%);
+
+$link-color: $purple-100;
+$body-heading-line-height: 1.2;

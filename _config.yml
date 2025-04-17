@@ -1,9 +1,30 @@
-title: Community Handbook
-description: Documentation for the Endless Access community
+title: Endless Access Community Handbook
+description: Documentation for the Endless Access community itself
 theme: just-the-docs
 
 url: https://Endless-Access-Community.github.io/handbook
+logo: "/assets/images/logo.svg"
+
+color_scheme: ea-light
+
+callouts:
+  warning:
+    title: Heads up!
+    color: orange
 
 aux_links:
-  Endless Access: https://www.endlessos.org/game-making
-  Join Our Discord: https://discord.gg/joinendless
+  Website: https://www.endlessos.org/game-making
+  Discord: https://discord.gg/joinendless
+  GitHub: https://github.com/Endless-Access-Community
+
+aux_links_new_tab: true
+
+nav_external_links:
+  - title: Website
+    url: https://www.endlessos.org/game-making
+  - title: Discord
+    url: https://discord.gg/joinendless
+  - title: GitHub
+    url: https://github.com/Endless-Access-Community
+
+nav_external_links_new_tab: true
