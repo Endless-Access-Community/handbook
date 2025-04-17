@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Endless Access Community Handbook
+description: Documentation for the community itself
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Endless-Access-Community.github.io/handbook
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Learn More: https://www.endlessos.org/game-making
+  Discord: https://discord.gg/joinendless
