@@ -6,7 +6,7 @@ permalink: pretty
 
 # Just the Docs
 logo: "/assets/images/logo.svg"
-color_scheme: ea-light
+color_scheme: light
 
 callouts:
   note:

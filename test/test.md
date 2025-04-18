@@ -7,3 +7,5 @@ parent: Theme test
 ---
 
 Just testing how nesting works!
+
+![Logo](../../assets/images/logo.png)

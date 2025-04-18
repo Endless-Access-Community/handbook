@@ -1,0 +1,61 @@
+// Typography
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+$body-font-family: "Inter", sans-serif;
+$header-font-family: "Figtree", sans-serif;
+
+h1, .text-alpha,
+h2, .text-beta, #toctitle,
+h3, .text-gamma,
+h4, .text-delta,
+h5, .text-epsilon,
+h6, .text-zeta {
+  font-family: $header-font-family;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1, .text-alpha {
+  font-weight: 800;
+  @include fs-10;
+}
+
+h2, .text-beta, #toctitle {
+  font-weight: 700;
+  opacity: 0.95;
+  @include fs-8;
+}
+
+h3, .text-gamma {
+  font-weight: 600;
+  opacity: 0.9;
+  @include fs-7;
+}
+
+h4, .text-delta {
+  font-weight: 600;
+  opacity: 0.85;
+  @include fs-5;
+}
+
+h5, .text-epsilon {
+  font-weight: 500;
+  opacity: 0.80;
+  @include fs-5;
+}
+
+h6, .text-zeta {
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  opacity: 0.80;
+  text-transform: uppercase;
+  @include fs-3;
+}
+
+// Buttons
+
+.btn {
+  font-family: "Figtree", sans-serif;
+  font-weight: 800;
+}

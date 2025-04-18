@@ -5,7 +5,7 @@ window.matchMedia('(prefers-color-scheme: dark)')
   if (event.matches) {
       jtd.setTheme('ea-dark');
   } else {
-      jtd.setTheme('ea-light');
+      jtd.setTheme('light');
   }
 });
 
