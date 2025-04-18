@@ -1,4 +1,5 @@
-// Colors
+// Color Overrides
+
 $grey-dk-200: #2f2d3c;
 $grey-dk-250: #252129;
 $grey-dk-300: #121217;
@@ -15,11 +16,6 @@ $purple-200: #5837ed;
 $purple-300: #331dc3;
 $purple-000: lighten($purple-100, 15%);
 
-$orange-100: #ff6b00;
-$orange-200: #e76203;
-$orange-300: #cc4a09;
-$orange-000: lighten($orange-100, 20%);
-
 $blue-100: #1da4f5;
 $blue-200: #0480cd;
 $blue-300: #26496d;
@@ -34,6 +30,22 @@ $green-100: #7bc142;
 $green-200: #67ad2e;
 $green-300: #497c1f;
 $green-000: lighten($green-100, 20%);
+
+
+// Unique Colors
+
+$orange-100: #ff6b00;
+$orange-200: #e76203;
+$orange-300: #cc4a09;
+$orange-000: lighten($orange-100, 20%);
+
+$cyan-100: #6fe8f0;
+$cyan-200: #32d2dc;
+$cyan-300: #128087;
+$cyan-000: lighten($cyan-100, 20%);
+
+
+// Other Variable Overrides
 
 $link-color: $purple-100;
 $body-heading-line-height: 1.2;
