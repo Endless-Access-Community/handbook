@@ -6,16 +6,10 @@ nav_order: 1
 
 # Community Architecture
 
-## Platforms
+To enable safe participation from learners aged 13–17 as well as adults, we utilize a tiered community structure. Regardless of tier, all community spaces are heavily moderated. In all cases, everyone in the community **can**:
+- See other users’ chosen public usernames/display names (e.g. Discord username, GitHub profile)
+- See other user’s publicly-shared content, such as contributions on GitHub
 
-The community exists across a few different platforms for different uses:
-
-Platform  | Purpose   | Details
-:-------- | :-------- | :----------
-[Discord] | People    | Real-time chat; like a shared lab where we can work together and help one another
-[GitHub]  | Projects  | Code, assets, and task tracking; canonical documentation of decisions and outcomes
-[Studio]  | Portfolio | Showcase learning progress, skills, and achievements i.e. with badges
-
-[GitHub]: https://github.org/Endless-Access-Community
-[Discord]: https://discord.gg/joinendless
-[Studio]: https://studio.endlessstudios.com
+And **cannot**:
+- Chat 1:1, e.g. via direct messages
+- Interact in unmoderated spaces

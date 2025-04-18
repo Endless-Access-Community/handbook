@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-
-
 h1, .text-alpha,
 h2, .text-beta, #toctitle,
 h3, .text-gamma,
@@ -62,4 +60,19 @@ h6, .text-zeta {
 .btn {
   font-family: "Figtree", sans-serif;
   font-weight: 800;
+}
+
+
+// Layout
+
+body {
+  padding-bottom: 0;
+}
+
+footer.site-footer {
+  display: none;
+}
+
+.label:not(g) {
+  vertical-align: bottom;
 }
