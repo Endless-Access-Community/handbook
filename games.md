@@ -7,6 +7,18 @@ layout: default
 
 Looking to play or contribute to our community games? You're in the right place!
 
+## Threadbare
+{: .after-label .soon }
+
+A whimsical journey of restoration where stories weave the fabric of a forgotten world back together. You are a newly summoned Storyweaver, heir to the First Storytellers, called to reclaim the world’s lost stories and restore the Weave.
+
+<!--
+[Play Now](https://endlessm.github.io/threadbare/){: .btn .mr-1 }
+-->
+[View on GitHub](https://github.com/endlessm/threadbare){: .btn .btn-primary }
+
+Threadbare is being used in select learning programs as a scaffolded learning experience. Learners create non-canon StoryQuests that live alongside the canon narrative. In the future, contributors will be able to contribute canon LoreQuests to the core narrative of Threadbare.
+
 ## Candy Collective
 
 Platformer that embodies simplicity, is a little unconventional, and includes a touch of harshness with its visual design and gameplay.
