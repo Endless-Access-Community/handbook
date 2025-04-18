@@ -48,4 +48,10 @@ $cyan-000: lighten($cyan-100, 20%);
 // Other Variable Overrides
 
 $link-color: $purple-100;
-$body-heading-line-height: 1;
+$body-font-family: "Inter", sans-serif;
+$body-heading-line-height: 1.2;
+
+
+// New Typography
+$heading-line-height: 1;
+$heading-font-family: "Figtree", sans-serif;

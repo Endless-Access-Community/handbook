@@ -5,10 +5,9 @@ nav_order: 0
 ---
 
 # Community Handbook
-{: .fs-10 }
 
 {{ site.description }}
-{: .fs-5 }
+{: .fs-6 }
 
 {: .warning }
 >This handbook, much like the community itself, is in its very early stages. We're actively building things out, and nothing here should be considered "final."

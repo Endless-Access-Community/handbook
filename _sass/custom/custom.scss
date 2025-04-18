@@ -2,8 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-$body-font-family: "Inter", sans-serif;
-$header-font-family: "Figtree", sans-serif;
+
 
 h1, .text-alpha,
 h2, .text-beta, #toctitle,
@@ -11,14 +10,19 @@ h3, .text-gamma,
 h4, .text-delta,
 h5, .text-epsilon,
 h6, .text-zeta {
-  font-family: $header-font-family;
+  font-family: $heading-font-family;
   font-optical-sizing: auto;
   font-style: normal;
+  line-height: $heading-line-height !important;
 }
 
 h1, .text-alpha {
   font-weight: 800;
   @include fs-10;
+}
+
+.main-content h1:first-of-type {
+  margin-top: 0.25em;
 }
 
 h2, .text-beta, #toctitle {
