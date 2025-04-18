@@ -1,10 +1,11 @@
 title: Endless Access Community Handbook
 description: Documentation for the Endless Access community itself
 theme: just-the-docs
-
 url: https://Endless-Access-Community.github.io/handbook
-logo: "/assets/images/logo.svg"
+permalink: pretty
 
+# Just the Docs
+logo: "/assets/images/logo.svg"
 color_scheme: ea-light
 
 callouts:

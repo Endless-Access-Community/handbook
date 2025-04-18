@@ -2,6 +2,33 @@
 
 Documentation for the Endless Access community itself. Uses [Just the Docs].
 
+## Structure
+
+Documentation is stored as Markdown files in this repository, either in the root or in subfolders. The file's path determines the URL of the page; for example:
+
+```
+index.md
+architecture/
+├─ index.md
+├─ platforms.md
+```
+
+becomes:
+
+```
+/
+/architecture/
+/architecture/platforms/
+```
+
+To make a page show as a child page (e.g. in the sidebar), include `parent` by title (case-sensitive) in the Front Matter, e.g.:
+
+```
+parent: Architecture
+```
+
+For more information, see the [Page Levels documentation](https://just-the-docs.com/docs/navigation/main/levels/).
+
 ## Building and previewing locally
 
 Assuming [Jekyll] and [Bundler] are installed on your computer:
