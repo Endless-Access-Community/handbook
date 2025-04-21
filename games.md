@@ -13,7 +13,7 @@ Looking to play or contribute to our community games? You're in the right place!
 Coming Soon
 {:.label .label-yellow }
 
-A whimsical journey of restoration where stories weave the fabric of a forgotten world back together. You are a newly summoned Storyweaver, heir to the First Storytellers, called to reclaim the world’s lost stories and restore the Weave.
+A story-driven, collaborative game where players don’t just explore a world—they co-create it. In Threadbare, players rebuild a world unraveling at the seams by recovering knowledge, crafting stories, and designing characters, quests, and cultures drawn from their own lives.
 
 <!--
 [Play Now](https://endlessm.github.io/threadbare/){: .btn .mr-1 }
