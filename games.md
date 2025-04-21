@@ -8,7 +8,10 @@ layout: default
 Looking to play or contribute to our community games? You're in the right place!
 
 ## Threadbare
-{: .after-label .soon }
+{: .d-inline-block }
+
+Coming Soon
+{:.label .label-yellow }
 
 A whimsical journey of restoration where stories weave the fabric of a forgotten world back together. You are a newly summoned Storyweaver, heir to the First Storytellers, called to reclaim the world’s lost stories and restore the Weave.
 

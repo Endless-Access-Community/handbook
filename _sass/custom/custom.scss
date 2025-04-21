@@ -64,33 +64,6 @@ h6, .text-zeta {
 }
 
 
-// Labels
-
-.after-label {
-  &::after {
-    @extend .label;
-    font-family: $body-font-family;
-    font-weight: normal;
-    line-height: $content-line-height;
-  }
-
-  // &.beta::after {
-  //   @extend .label-red;
-  //   content: "Beta";
-  // }
-
-  // &.new::after {
-  //   @extend .label-green;
-  //   content: "New";
-  // }
-
-  &.soon::after {
-    @extend .label-yellow;
-    content: "Coming Soon";
-  }
-}
-
-
 // Layout
 
 body {
