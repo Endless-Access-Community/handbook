@@ -10,7 +10,7 @@ nav_order: 0
 {: .fs-6 }
 
 {: .warning }
->This handbook, much like the community itself, is in its early stages. We're actively building things out, and nothing here should be considered "final." Feel free to [file an issue] if you notice a mistake or feel like something is missing!
+>This handbook, much like the community itself, is in its early stages. We're actively building things out, so feel free to [file an issue] if you notice a mistake or feel like something is missing!
 
 Welcome to a community where peer-to-peer mentorship, feedback, and shared learning are the norm. Together we'll build not just skills, but confidence, friendships, and portfolios.
 
