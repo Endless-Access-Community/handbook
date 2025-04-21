@@ -13,5 +13,3 @@ To enable safe participation from learners aged 13–17 as well as adults, we ut
 And **cannot**:
 - Chat 1:1, e.g. via direct messages
 - Interact in unmoderated spaces
-
-{{ site.source }}
