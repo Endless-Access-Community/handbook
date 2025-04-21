@@ -88,4 +88,22 @@ h6, .text-zeta {
     @extend .label-yellow;
     content: "Coming Soon";
   }
+
+
+// Layout
+
+body {
+  padding-bottom: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+footer.site-footer {
+  display: none;
+}
+
+.label:not(g) {
+  vertical-align: bottom;
 }

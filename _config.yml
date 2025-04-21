@@ -1,10 +1,13 @@
 title: Endless Access Community Handbook
 description: Documentation for the Endless Access community itself
 theme: just-the-docs
-url: https://Endless-Access-Community.github.io/handbook
+url: https://endless-access-community.github.io/handbook
 permalink: pretty
 
-# Just the Docs
+#################
+# Just the Docs #
+#################
+
 logo: "/assets/images/logo.svg"
 color_scheme: light
 
@@ -24,7 +27,13 @@ aux_links:
 aux_links_new_tab: true
 
 nav_external_links:
-  - title: Edit on GitHub
-    url: https://github.com/Endless-Access-Community/handbook
+  - title: Code of Conduct
+    url: https://github.com/Endless-Access-Community/.github/blob/main/CODE_OF_CONDUCT.md
 
 nav_external_links_new_tab: true
+
+gh_edit_link: true
+gh_edit_link_text: Edit Page on GitHub
+gh_edit_repository: https://github.com/Endless-Access-Community/handbook
+gh_edit_branch: main
+gh_edit_view_mode: edit
