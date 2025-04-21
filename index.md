@@ -10,21 +10,18 @@ nav_order: 0
 {: .fs-6 }
 
 {: .warning }
->This handbook, much like the community itself, is in its very early stages. We're actively building things out, and nothing here should be considered "final."
+>This handbook, much like the community itself, is in its early stages. We're actively building things out, and nothing here should be considered "final." Feel free to [file an issue] if you notice a mistake or feel like something is missing!
 
-We’re building a game-making community around open source video games. **Players** experience unique worlds full of wonder and lore. **Contributors** build their own quests into games that anyone can play. **Learners** level up their skills and knowledge in a real world open source environment.
-
-The secret? Every member of the community is all three: player, contributor, learner; we each continuously play, contribute, and learn as we work together and make cool things. 
+Welcome to a community where peer-to-peer mentorship, feedback, and shared learning are the norm. Together we'll build not just skills, but confidence, friendships, and portfolios.
 
 ## Who is "Endless Access?"
 
-[Endless Access] is a nonprofit focused on empowering the next generation of digital creators through innovative tools to spark creativity, foster collaboration, and build future-ready skills. 
-
+_Endless Access_ is a nonprofit that believes every learner deserves the chance to shape the world—not just navigate it. We open doors to digital creativity by combining access, learning, and community in a powerful loop where learners become creators, contributors, and confident innovators. To learn more, visit [our website][Endless Access].
+ 
 {: .note }
->Endless Access is currently undergoing a rename from "Endless OS Foundation" to better reflect a mission of bringing access to digital skills and technology to the under-served. For simplicity, we'll consistently use the new name.
+>Endless Access is currently undergoing a rename from "Endless OS Foundation" to better reflect our mission; for simplicity, we'll consistently use the new name in this documentation.
 
-The _Endless Access community_ is the global game-making and learning community we're building around the Endless Access organization's efforts and projects. For clarity, this documentation will refer to the organization as "Endless Access" and in the third person (they/them/their), and the community as "the community" or "the Endless Access community" in the first person plural (we/us/our).
-
-To learn more about Endless Access, visit [their website][Endless Access].
+The _Endless Access community_ is the global game-making and learning community we're building around our programs. It includes Endless Access staff as well as learners and educators from around the world.
 
 [Endless Access]: https://www.endlessos.org/
+[file an issue]: https://github.com/Endless-Access-Community/handbook/issues
