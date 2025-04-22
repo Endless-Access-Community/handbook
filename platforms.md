@@ -2,7 +2,6 @@
 title: Platforms
 layout: default
 nav_order: 2
-parent: Architecture
 ---
 
 # Community Platforms
@@ -18,3 +17,10 @@ Platform  | Purpose   | Details
 [GitHub]: https://github.org/Endless-Access-Community
 [Discord]: https://discord.gg/joinendless
 [Studio]: https://studio.endlessstudios.com
+
+---
+
+## Next
+{: .text-delta }
+
+- [Games]({% link games.md %})
