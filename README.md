@@ -57,11 +57,6 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
     The built site is stored in the directory `_site`.
 
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License].
-
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.com/
 [Bundler]: https://bundler.io
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
