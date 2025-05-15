@@ -1,6 +1,8 @@
 ---
 title: Games
-layout: default
+
+SPDX-FileCopyrightText: 2025 Endless Access
+SPDX-License-Identifier: CC-BY-SA-4.0
 ---
 
 # Community Games

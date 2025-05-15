@@ -3,6 +3,9 @@ title: Theme test
 layout: default
 nav_exclude: true
 search_exclude: true
+
+SPDX-FileCopyrightText: 2025 Endless Access
+SPDX-License-Identifier: CC-BY-SA-4.0
 ---
 
 # Focus on writing good documentation

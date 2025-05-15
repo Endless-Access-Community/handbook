@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2025 Endless Access
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
 // Typography
 
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -12,6 +15,10 @@ h6, .text-zeta {
   font-optical-sizing: auto;
   font-style: normal;
   line-height: $heading-line-height !important;
+
+  blockquote &:first-child {
+    margin-top: 0.25em;
+  }
 }
 
 h1, .text-alpha {
@@ -65,10 +72,6 @@ h6, .text-zeta {
 
 
 // Layout
-
-body {
-  padding-bottom: 0;
-}
 
 table {
   border-collapse: collapse;

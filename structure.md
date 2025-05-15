@@ -1,7 +1,9 @@
 ---
 title: Structure
-layout: default
 nav_order: 1
+
+SPDX-FileCopyrightText: 2025 Endless Access
+SPDX-License-Identifier: CC-BY-SA-4.0
 ---
 
 # Community Structure
@@ -99,4 +101,4 @@ Highest Trust
 ## Next
 {: .text-delta }
 
-- [Platforms]({% link platforms.md %})
+- [Platforms]({% link platforms/index.md %})

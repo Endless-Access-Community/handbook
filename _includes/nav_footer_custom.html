@@ -1,8 +1,13 @@
 {% comment %}
+  SPDX-FileCopyrightText: 2025 Endless Access
+  SPDX-License-Identifier: MIT
+
   Displays at the bottom of the page on mobile, or in the bottom of the sidebar
   on larger displays
 {% endcomment %}
 
 <footer class="site-footer">
-
+{% if page.SPDX-FileCopyrightText %}
+Copyright © {{ page.SPDX-FileCopyrightText }}
+{% endif %}
 </footer>
