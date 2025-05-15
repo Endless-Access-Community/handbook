@@ -1,4 +1,8 @@
 # EditorConfig <http://EditorConfig.org>
+
+# SPDX-FileCopyrightText: NONE
+# SPDX-License-Identifier: CC0-1.0
+
 root = true
 
 [*]

@@ -2,6 +2,9 @@
 title: Home
 layout: home
 nav_order: 0
+
+SPDX-FileCopyrightText: 2025 Endless Access
+SPDX-License-Identifier: CC-BY-SA-4.0
 ---
 
 # Community Handbook

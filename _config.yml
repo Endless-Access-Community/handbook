@@ -1,8 +1,14 @@
+# SPDX-FileCopyrightText: NONE
+# SPDX-License-Identifier: CC0-1.0
+
 title: Endless Access Community Handbook
 description: Documentation for the Endless Access community itself
 theme: just-the-docs
 url: https://endless-access-community.github.io/handbook
 permalink: pretty
+
+plugins:
+  - jekyll-default-layout
 
 #################
 # Just the Docs #

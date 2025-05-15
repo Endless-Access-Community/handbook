@@ -60,3 +60,8 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.com/
 [Bundler]: https://bundler.io
+
+<!--
+SPDX-FileCopyrightText: 2025 Endless Access
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
